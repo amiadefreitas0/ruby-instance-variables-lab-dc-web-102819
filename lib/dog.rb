@@ -1,4 +1,4 @@
-class Person
+class Dog
   def initialize(name)
     @name = name
   end
@@ -8,5 +8,5 @@ class Person
   end
 end
 
-kanye = Person.new("Kanye")
+kanye = Dog.new("Kanye")
 kanye.name
